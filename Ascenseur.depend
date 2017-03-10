@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1488204707 source:c:\users\dewid\desktop\screensav\ascenseur\actions.c
+	<stdio.h>
+	<stdlib.h>
+
+1488206123 source:c:\users\dewid\desktop\screensav\ascenseur\main.c
+	<stdio.h>
+	<stdlib.h>
+
